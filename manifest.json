@@ -10,11 +10,6 @@
     {
       "src": "plant.png",
       "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "plant.png",
-      "type": "image/png",
       "sizes": "512x512"
     }
   ],
