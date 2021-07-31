@@ -1,6 +1,6 @@
 
 ## A project for Encrypting and decrypting text.
-![sample image](https://github.com/esha2303/encryptText/blob/main/src/assets/Desktop%20-%202Sample.png)
+![sample image](https://github.com/esha2303/encryptText/blob/main/src/assets/Desktop%20-%202Sample%20(1).png)
 Currently uses CEASER CIPHER. 
 
 ### How to use?
